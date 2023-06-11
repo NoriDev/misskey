@@ -1063,6 +1063,7 @@ goToMisskey: "Misskeyへ"
 additionalEmojiDictionary: "絵文字の追加辞書"
 installed: "インストール済み"
 branding: "ブランディング"
+translateProfile: "プロフィールを翻訳する"
 
 _initialAccountSetting:
   accountCreated: "アカウントの作成が完了しました！"

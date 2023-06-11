@@ -1066,6 +1066,7 @@ export interface Locale {
     "additionalEmojiDictionary": string;
     "installed": string;
     "branding": string;
+    "translateProfile": string;
     "_initialAccountSetting": {
         "accountCreated": string;
         "letsStartAccountSetup": string;
